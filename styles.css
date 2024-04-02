@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.brand_logo{
+    width: 100px;
+    height: 80px;
+}
+
+.navbar.bg-light {
+    background-color: #6FCEE2 !important;
+}
+
+.nav-link{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.nav-button-Login{
+    margin: 6px;
+}
+
+.nav-button-Cart{
+    margin: 6px;
+}
+
+.dropdown-menu{
+    background-color: #6FCEE2;
+}
+
+.row{
+    padding: 20px;
+}
+
+
+
